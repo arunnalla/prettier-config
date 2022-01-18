@@ -1,0 +1,19 @@
+{
+  "name": "@arunnalla/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration",
+  "main": "prettier.json",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arunnalla/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Arun Nalla <hello@arunnalla.com>",
+  "bugs": {
+    "url": "https://github.com/arunnalla/prettier-config/issues"
+  },
+  "homepage": "https://github.com/arunnalla/prettier-config#readme"
+}
