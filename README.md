@@ -2,6 +2,8 @@
   <h2>Prettier Config</h2>
 </div>
 
+Shared prettier configuration.
+
 ## Usage
 
 1. Install the package
